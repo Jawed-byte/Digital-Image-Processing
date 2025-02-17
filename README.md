@@ -114,7 +114,7 @@ This project explores **Fourier Transform-based analysis, image restoration, noi
 - **Fingerprint Recognition & Edge Detection:** Combined **morphological operations, Gabor filters, thresholding, and skeletonization** to enhance `fingerprint2.png` for accurate recognition.
 
 
-# Image Segmentation, Hough Transform, and Corner Detection in Digital Image Processing
+# 5. Image Segmentation, Hough Transform, and Corner Detection in Digital Image Processing
 
 ## Overview
 This project explores **image segmentation, Hough Transform for line and circle detection, and Harris Corner Detection** for feature extraction and analysis. It includes implementations of **thresholding techniques, edge detection, and corner detection** using **Python and OpenCV**, optimizing detection accuracy for real-world applications.
